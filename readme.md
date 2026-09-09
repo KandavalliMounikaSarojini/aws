@@ -7,7 +7,7 @@ A multi-page static frontend designed as a friendly Git practice project for int
 - `index.html` — landing page
 - `programs.html` — open internship roles with category filters
 - `projects.html` — project showcase
-- `resources.html` — learning library
+- `resources.html` —c learning library
 - `profile.html` — sample student dashboard
 
 ## Run locally
@@ -28,3 +28,5 @@ You can still open `index.html` directly in a browser or use a local-server exte
 2. Commit the HTML/CSS change with a focused commit message.
 3. Open a pull request and request a review.
 4. Resolve a planned conflict by editing the same resource entry on two branches.
+
+## git commands
